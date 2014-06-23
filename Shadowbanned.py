@@ -15,7 +15,7 @@ bannedMessage = """ You're shadowbanned.
 
 The only thing that you can do is to [message the admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com)  *using your shadowbanned account* and patiently wait for a response.
 
-Politely asked them why you were shadowbanned. They don't always respond to the first message so be mildly persistent but don't message them more than once a day.
+Politely ask them why you were shadowbanned. They don't always respond to the first message so be mildly persistent but don't message them more than once a day.
 
 Read up on possible rules you may have violated:    
 http://www.reddit.com/rules. **Read them all and click every link.**
