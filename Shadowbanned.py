@@ -41,7 +41,7 @@ If you're asking because something you posted isn't showing up in /r/<subreddit>
 
 **Do not delete & resubmit your posts** as this will train the spam filter to continue doing this. You may have to repeat the procedure until the spam filter learns that your posts are okay.
 
-*If this does not help explain the trouble you're having, first check out [Reddit's FAQ](http://www.reddit.com/r/help/wiki/faq) or consider posting in /r/help.*
+*If this doesn't help explain the trouble you're having, first check out [Reddit's FAQ](http://www.reddit.com/r/help/wiki/faq) or consider posting in /r/help.*
 """
 def removeNonAscii(s): return "".join(filter(lambda x: ord(x)<128, s))
 def isShadowbanned(user):
