@@ -25,10 +25,10 @@ http://www.reddit.com/rules. **Read them all and click every link.**
 Some bans are done by mistake, but if you know you broke a rule, ***be honest and apologize***. Your activity, including PMs, private subreddits, alt accounts and voting history are utterly transparent to them.
 
 
-***I AM A BOT***, however real people will be along to answer any subsequent questions you may still have so feel free to leave a comment anyway.
+***I AM A BOT***, however real people will be along to answer any remaining questions so feel free to leave a comment anyway.
 
 
-If you do have success getting your account back in good standing, the guy who wrote this would appreciate it if you reply [to this thread](http://www.reddit.com/r/ShadowBan/comments/1vyaa2/a_guide_to_getting_unshadowbanned_sticky_maybe/cez1fl3) letting him know that it helped.
+If you do have success getting your account back in good standing, the guy who wrote this would really like it if you reply [to this thread](http://www.reddit.com/r/ShadowBan/comments/1vyaa2/a_guide_to_getting_unshadowbanned_sticky_maybe/cez1fl3) letting him know that it helped.
 Good luck.
 
     /r/Shadowban Copypasta version 2.3.1"""
